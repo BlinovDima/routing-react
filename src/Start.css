@@ -1,0 +1,11 @@
+.start {
+  display: block;
+  background-color: aqua;
+  height: 50px;
+  font-size: 21px;
+  padding-top: 10px;
+}
+.navlink {
+  padding-left: 20px;
+  text-decoration: none;
+}
